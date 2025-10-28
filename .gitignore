@@ -72,3 +72,8 @@ FPP/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 FPP/DerivedDataCache/*
+
+# Unreal auto-generated external actor/object data
+FPP/Content/__ExternalActors__/
+FPP/Content/__ExternalObjects__/
+
